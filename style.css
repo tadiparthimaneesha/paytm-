@@ -113,3 +113,99 @@
 	font-size: 15px;
 	margin-bottom: 8%;
 }
+.pay{
+	margin-top: 5%;
+	font-size: 30px;
+	font-family: Poppins;
+	margin-bottom: 6%;
+}
+.account
+{
+	font-family: Poppins;
+	font-size: 15px;
+	margin-bottom: 8%;
+}
+.sec5div2{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 6% 4%;
+	border-radius: 5% 5%;
+	margin-top: 4%;
+}
+.want{
+	margin-top: 5%;
+	font-size: 30px;
+	font-family: Poppins;
+	margin-bottom: 6%;
+}
+.postpaid{
+	font-family: Poppins;
+	font-size: 15px;
+	margin-bottom: 8%;
+}
+.sec5div3{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 6% 4%;
+	border-radius: 5% 5%;
+	margin-top: 4%;
+}
+.learn{
+	background-color: #0f4a8a;
+	color: white;
+	border-radius: 25px;
+	width: 20%;
+	text-align: center;
+	padding: 2.5%;
+}
+.learn:hover{
+	background-color: deepskyblue;
+	color: white;
+}
+.sec5div4{
+	display: flex;
+	justify-content: space-evenly;
+	font-family: Poppins;
+}
+.child2{
+	background-color: white;
+	margin: 4% 4% 0% 0%;
+	padding: 6% 4% 0% 6%;
+	border-radius: 5px;
+}
+.child3{
+	background-color: white;
+	margin: 4% 0% 0% 0%;
+	padding: 10% 4% 0% 6%;
+	border-radius: 5px;
+}
+.unlimited{
+	padding: 3% 0%;
+	font-size: 35px;
+	font-family: Poppins;
+}
+.credit{
+	padding: 3% 0%;
+	font-size: 35px;
+	font-family: Poppins;
+}
+.div4para{
+	font-size: 20px;
+	padding-bottom: 12%;
+}
+.sec6{
+	display: flex;
+	justify-content: space-between;
+	padding: 10% 13%;
+	font-family: Poppins;
+}
+.financial{
+	font-size: 47px;
+	padding-bottom: 10%;
+}
+.sincere{
+	padding: 8% 0%;	
+	font-size: 37px;
+}
