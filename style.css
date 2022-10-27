@@ -159,6 +159,7 @@
 	width: 20%;
 	text-align: center;
 	padding: 2.5%;
+	margin-top: 5%;
 }
 .learn:hover{
 	background-color: deepskyblue;
@@ -208,4 +209,78 @@
 .sincere{
 	padding: 8% 0%;	
 	font-size: 37px;
+}
+.sec7{
+	display: flex;
+	justify-content: space-between;
+	font-family: Poppins;
+	padding: 4% 2%;
+}
+.build{
+	font-size: 40px;
+	padding: 4% 0%;
+}
+.sec7para{
+	font-size: 20px;
+}
+.learn{
+	width: 25%;
+}
+.sec8{
+	display: flex;
+	justify-content: space-between;
+	padding: 4% 12%;
+	font-family: Poppins;
+}
+.easy{
+	font-size: 40px;
+	padding-top: 5%;
+}
+.buying{
+	font-size: 18px;
+	padding-top: 3%;
+}
+.learn{
+	width: 20%;
+}
+.sec9{
+	background-color: rgba(239, 239, 239, 0.6);
+	display: flex;
+	justify-content: space-between;
+	padding: 4% 12%;
+	font-family: Poppins;
+}
+.get{
+	font-size: 40px;
+	padding-top: 5%;
+}
+.offer{
+	font-size: 18px;
+	padding-top: 3%;
+}
+.learn{
+	width: 20%;
+}
+.sec10{
+	background-color: white;
+	padding: 6% 2%;
+	font-family: Poppins;
+}
+.business{
+	font-size: 45px;
+	padding: 5% 0%;
+}
+.sec10div1{
+	background-color: rgba(239, 239, 239, 0.6);
+	display: flex;
+	justify-content: space-between;
+	padding: 5% 0% 4% 8%;
+}
+.accept{
+	font-size: 35px;
+	padding-top: 30%;
+}
+.grow{
+	font-size: 19px;
+	padding-top: 5%;
 }
