@@ -469,3 +469,137 @@
 		font-size: 7px;
 	}
 }
+
+
+@media (max-width: 420px){
+	.navigation a{
+		font-size: 6px;
+	}
+	.msg{
+		font-size: 8px;
+	}
+	.India{
+		font-size: 15px;
+	}
+	.recharge{
+		font-size: 8px;
+	}
+	.download-app{
+		font-size: 7px;
+	}
+	.heading{
+		font-size: 18px;
+	}
+	.sec3 p{
+		font-size: 10px;
+	}
+	.sec3div1{
+		flex-direction: column;
+		align-items: center;
+	}
+	#last{
+		margin-left: 20%;	
+	}
+	#end{
+		margin-right: 22%;
+	}
+	.sec4 p{
+		font-size: 5px;
+	}
+	.heading{
+		font-size: 15px;
+	}
+	.wallet{
+		font-size: 10px;
+	}
+	.fastest{
+		font-size: 10px;
+	}
+	.load{
+		font-size: 4px;
+	}
+	.download-app{
+		font-size: 5px;
+	}
+	.money{
+		font-size: 10px;
+	}
+	.pay{
+		font-size: 12px;
+	}
+	.account{
+		font-size: 4px;
+	}
+	.want{
+		font-size: 12px;
+	}
+	.postpaid{
+		font-size: 4px;
+	}
+	.learn{
+		font-size: 5px;
+	}
+	.unlimited{
+		font-size: 10px;
+	}
+	.div4para{
+		font-size: 4px;
+	}
+	.credit{
+		font-size: 10px;
+	}
+	.financial{
+		font-size: 8px;
+	}
+	.sincere{
+		font-size: 10px;
+	}
+	.sec6 p{
+		font-size: 4px;
+	}
+	.build{
+		font-size: 12px;
+	}
+	.sec7para{
+		font-size: 8px;
+	}
+	.easy{
+		font-size: 10px;
+	}
+	.buying{
+		font-size: 5px;
+	}
+	.get{
+		font-size: 8px;
+	}
+	.offer{
+		font-size: 5px;
+	}
+	.business{
+		font-size: 12px;
+	}
+	.accept{
+		font-size: 12px;
+	}
+	.grow{
+		font-size: 5px;
+	}
+	.shop{
+		font-size: 12px;
+	}
+	.million{
+		font-size: 5px;
+	}
+	.help{
+		font-size: 13px;
+	}
+	.head{
+		font-size: 5px;
+	}
+	.matter{
+		font-size: 6px;
+	}
+	.more{
+		font-size: 7px;
+	}
+}
